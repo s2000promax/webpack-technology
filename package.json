@@ -1,0 +1,26 @@
+{
+  "name": "-webpack-technology",
+  "version": "1.0.0",
+  "description": "webpack",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s2000promax/webpack-technology.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Stan <s2000promax@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s2000promax/webpack-technology/issues"
+  },
+  "homepage": "https://github.com/s2000promax/webpack-technology#readme",
+  "devDependencies": {
+    "webpack": "^5.69.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
